@@ -1,4 +1,7 @@
 # Lab02 Enigma Machine
+
+[![hackmd-github-sync-badge](https://hackmd.io/NJ2VarpSRFe2j6o0HZBECw/badge)](https://hackmd.io/NJ2VarpSRFe2j6o0HZBECw)
+
 Github : [**Lab02Github**](https://github.com/wuray890521/IClab/tree/main/Lab2)
 # Description
 # Topic of this week
