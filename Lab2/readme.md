@@ -277,5 +277,11 @@ always@(*) begin
 end 
 ```
 # Experience
+經過這次lab我學習到在開始寫code前必需搞清楚spec的要求，而非盲目的去寫code。
+## Code Review
+這次lab寫得過於倉促，沒有整體的規劃，導致到最後很像在湊出答案，而非有嚴謹邏輯。下次寫lab應該要先決定好 FSM 的配置，以及輸出訊號的設計。
+之後所有的 Lab 應該要把所有 input 先接到 register 而非直接開始工作。
+![image](https://hackmd.io/_uploads/r1tiacCTp.png)
+
 
 
