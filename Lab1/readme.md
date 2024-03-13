@@ -1,4 +1,7 @@
 # Lab01 Code Calculator
+
+[![hackmd-github-sync-badge](https://hackmd.io/RC7ipkhhTx27lziAVJLiJQ/badge)](https://hackmd.io/RC7ipkhhTx27lziAVJLiJQ)
+
 Github : [**Lab01Github**](https://github.com/wuray890521/IClab/tree/main/Lab1)
 # Description
 # Topic of this week
