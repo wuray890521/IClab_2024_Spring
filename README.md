@@ -2,7 +2,7 @@
 
 
 # Labs
-- [Lab01 Code Calculator](/RC7ipkhhTx27lziAVJLiJQ)
+- [Lab01 Code Calculator](https://hackmd.io/RC7ipkhhTx27lziAVJLiJQ)
 - [Lab02 Enigma Machine](/NJ2VarpSRFe2j6o0HZBECw)
 - [Lab03 AXI-SPI DataBridge](/-VVnzMO3SV6xMtuPH3hfuA)
 - [Lab04 Convolution Neural Network](/TQG98xFaQnyVtUlTCbDAhA)
