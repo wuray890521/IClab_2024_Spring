@@ -1,17 +1,3 @@
-/*
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-NYCU Institute of Electronic
-2024 Spring IC Design Laboratory 
-Lab08: SystemVerilog Design and Verification 
-File Name   : PATTERN.sv
-Module Name : PATTERN
-Release version : v1.0 (Release Date: Apr-2024)
-Author : Jui-Huang Tsai (erictsai.ee12@nycu.edu.tw)
-//   (C) Copyright Laboratory System Integration and Silicon Implementation
-//   All Right Reserved
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-*/
-
 `include "Usertype_BEV.sv"
 
 program automatic PATTERN(input clk, INF.PATTERN inf);
