@@ -16,3 +16,4 @@ module  four_bit_magnitude_comparator(output L,G,E,input[3:0]A,B);
             E = x[0]&x[1]&x[2]&x[3];
 endmodule
 ```
+在除掉特定的數字，且有一定的範圍下應該使用查表的case與法而非無腦的直接用 / 下去做除法。
